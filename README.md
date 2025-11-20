@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akash Patil</h1>
+<h3 align="center">A Passionate Data Analyst & AI Enthusiast from India 🇮🇳</h3>
 
-<!--
-**akashpatil8150/akashpatil8150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUserName&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 I’m currently working on an **AI Resume Screening System**  
+- 🌱 Learning **Machine Learning, NLP & Power BI**  
+- 💡 Passionate about turning data into decisions  
+- 📫 Reach me: **akashpatil8150@gmail.com**  
+- ⚡ Fun fact: *I love solving real-world problems with AI*  
+- 🌐 Check out my portfolio: [akashpatil8150.github.io/Akash-Patil-Portfolio](https://akashpatil8150.github.io/Akash-Patil-Portfolio/)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Python | R | SQL | Java 
+
+**Data & ML Tools:**  
+Power BI | Pandas | NumPy | Scikit-learn | NLTK | TensorFlow
+
+**Developer Tools:**  
+Git | GitHub | VS Code | Jupyter Notebook
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect with me  
+<p>
+<a href="https://linkedin.com/in/akash-patil-56659027b/" target="blank"><img width="40px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/YourUserName" target="blank"><img width="40px" src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
