@@ -96,18 +96,6 @@ Supervised ML model recommending optimal crops based on soil & climate
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashpatil8150&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpatil8150&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpatil8150&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🤝 Connect with Me
 
