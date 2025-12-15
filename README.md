@@ -37,7 +37,10 @@ MySQL • MongoDB
 Regression • Classification • Clustering  
 
 ### 🔹 NLP
-Text Processing • Sentiment Analysis • NER • Text Mining  
+Text Processing • Sentiment Analysis • NER • Text Mining
+
+### 🔹 Deep Learning
+Deep Learning (Fundamentals)
 
 ### 🔹 Web Analytics
 GA4 • Google Tag Manager • KPI Tracking • Funnel Analysis  
