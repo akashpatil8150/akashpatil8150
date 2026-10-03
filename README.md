@@ -1,113 +1,236 @@
-<!-- Banner or Profile Image (Optional, upload later) -->
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
-<h3 align="center">Data Analyst | Machine Learning Practitioner | AI Enthusiast</h3>
+
+<h3 align="center">Data Analyst | AI/ML Engineer | Agentic AI Practitioner</h3>
 
 <p align="center">
-  ✉️ akashpatil8150@gmail.com  
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/akash-patil-56659027b">LinkedIn</a> •
-<a href="https://akashpatil8150.github.io/Akash-Patil-Portfolio/">Portfolio</a> •
-<a href="https://github.com/akashpatil8150">GitHub</a>
+  <a href="mailto:akashpatil8150@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/akash-patil-56659027b">LinkedIn</a> •
+  <a href="https://akashpatil8150.github.io/Akash-Patil-Portfolio/">Portfolio</a> •
+  <a href="https://github.com/akashpatil8150">GitHub</a>
 </p>
 
 ---
 
-## 🎯 Objective  
-Self-motivated and quick learner with strong analytical and problem-solving skills. Passionate about leveraging Data Analytics, Machine Learning & AI to solve real-world business challenges. Skilled in transforming data into actionable insights using analytics, visualization & predictive modeling.
+## 👨‍💻 About Me
+
+I'm a **Data Analytics professional and AI/ML practitioner** passionate about building practical, data-driven applications and intelligent systems.
+
+I work across **Data Analytics, Machine Learning, NLP, Generative AI, Agentic AI, and Python backend development**, with a focus on solving real-world problems through technology.
+
+Currently, I'm focused on building **AI-powered applications, multi-agent systems, analytics solutions, and production-oriented Python backends**.
 
 ---
 
-## 🧠 Skills & Expertise
+## 🧠 Technical Skills
 
-### 🔹 Programming
-Python • R • SQL  
+### 💻 Programming
+Python • SQL • R
 
-### 🔹 Big Data Analytics
-Apache Spark • Hadoop • Sqoop  
+### 📊 Data Analytics & Visualization
+Pandas • NumPy • Power BI • Matplotlib • Seaborn  
+Data Cleaning • EDA • KPI Analysis • Funnel Analysis • Business Insights
 
-### 🔹 Data Visualization
-Power BI • Matplotlib • Seaborn  
-
-### 🔹 Databases
-MySQL • MongoDB  
-
-### 🔹 Machine Learning
+### 🤖 Machine Learning
 Regression • Classification • Clustering  
+Feature Engineering • Model Evaluation • Predictive Modeling  
+Scikit-learn
 
-### 🔹 NLP
-Text Processing • Sentiment Analysis • NER • Text Mining
+### 🧠 NLP & AI
+Text Processing • Sentiment Analysis • NER • Text Mining  
+LLM Applications • RAG • Generative AI • Agentic AI
 
-### 🔹 Deep Learning
-Deep Learning (Fundamentals)
+### 🔗 Backend & Agentic AI
+FastAPI • Flask • Streamlit  
+Multi-Agent Architecture • Tool Calling • Orchestration  
+State Management • API Integration • JWT Authentication
 
-### 🔹 Web Analytics
-GA4 • Google Tag Manager • KPI Tracking • Funnel Analysis  
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB
 
-### 🔹 Web App Development
-Streamlit • Flask  
+### ⚡ Big Data
+Apache Spark • Hadoop • Sqoop
 
-### 🔹 Tools & Libraries
-NumPy • Pandas • Scikit-learn • NLTK • SpaCy  
+### 🌐 Web Analytics
+GA4 • Google Tag Manager • KPI Tracking • Funnel Analysis
+
+### 🛠️ Tools & Libraries
+Git • GitHub • SQLAlchemy • NLTK • spaCy • NumPy • Pandas
 
 ---
 
 ## 🎓 Education
 
 | Degree | Institution | Year |
-|--------|-------------|------|
-| **MSc in Data Analytics (Pursuing)** | Pillai College of Arts, Commerce & Science | 2024 – 2026 |
-| **BSc in Information Technology** | Pillai College of Arts, Commerce & Science | 2021 – 2024 |
+|---|---|---|
+| **MSc Data Analytics** | Pillai College of Arts, Commerce & Science | 2024 – 2026 |
+| **BSc Information Technology** | Pillai College of Arts, Commerce & Science | 2021 – 2024 |
 | **Class XII (HSC)** | N.N. Paliwala Jr. College | 2019 – 2021 |
 | **Class X (SSC)** | St. Joseph High School | 2009 – 2019 |
 
----
-
-## 💼 Work Experience
-
-### 📍 Data Analytics Intern — Brainwave Matrix Solutions  
-📌 Mumbai, Maharashtra • Dec 2024 – Jan 2025  
-✔ Conducted sales analytics using Python & Power BI  
-✔ Extracted customer insights from 29K+ Instagram comments using NLP  
-✔ Supported data-driven decision making through visualization
+**MSc Data Analytics — CGPA: 8.45**
 
 ---
 
-## 🚀 Featured Projects  
+## 💼 Experience
 
-### 🔹 Talent AI – Smart Resume Screening & Ranking System (2025)
-AI-powered tool to parse, evaluate & rank resumes using ML + NLP  
-✔ Automates candidate shortlisting  
-✔ Enhances recruiter decision-making  
+### 🏢 Python AI Intern — WERQ Labs Pvt. Ltd.
+**Sanpada, Navi Mumbai | June 2026 – September 2026**
 
-🔗 [GitHub Repo](https://github.com/akashpatil8150/Talent-AI---Smart-Resume-Screening-and-Ranking-System) | 🔗 [Live Demo](https://talent-ai---smart-resume-screening-and-ranking-system-culv5cse.streamlit.app/)
+- Worked on **Python and AI/ML-based application development**.
+- Contributed to an **Agentic AI Travel Planner**.
+- Developed modular backend components using **FastAPI and Python**.
+- Integrated external APIs for transportation, hotels, activities and weather.
+- Implemented authentication, state management and backend services.
+- Worked on multi-agent workflows involving **planning, verification and replanning**.
+
+### 📊 Data Analytics Intern — Brainwave Matrix Solutions
+**Mumbai, Maharashtra | December 2024 – January 2025**
+
+- Conducted sales analytics using **Python and Power BI**.
+- Analyzed **29K+ Instagram comments** using NLP techniques.
+- Extracted customer insights through text processing and visualization.
+- Supported data-driven decision making using analytical dashboards.
 
 ---
 
-### 🔹 Smart Crop Recommendation System (2025)
-Supervised ML model recommending optimal crops based on soil & climate  
-✔ Supports better agricultural productivity  
+## 🚀 Featured Projects
 
-🔗 [GitHub Repo](https://github.com/akashpatil8150/Smart-Crop-Recommendation-System) | 🔗 [Live Demo](https://smart-crop-recommendation-system-kbm9gcraovslzqf4akdhzh.streamlit.app/)
+### 🤖 Agentic AI Travel Planner
+
+An AI-powered travel planning system built around a **multi-agent architecture**.
+
+**Key Components**
+
+- FastAPI backend
+- Agent orchestration
+- Transport planning
+- Hotel selection
+- Activity recommendations
+- Weather intelligence
+- Online fact verification
+- Trip state management
+- Replanning workflows
+- External API integrations
+- JWT authentication
+- PostgreSQL
+
+**Architecture**
+
+```text
+User Request
+     ↓
+Orchestrator
+     ↓
+┌──────────────┬──────────────┬──────────────┐
+│ Transport    │ Hotel        │ Activities   │
+│ Agent        │ Agent        │ Agent        │
+└──────────────┴──────────────┴──────────────┘
+     ↓
+Weather + Verification
+     ↓
+Trip State
+     ↓
+Final Itinerary
+```
+
+---
+
+### 🧠 Talent AI — Smart Resume Screening & Ranking
+
+AI-powered resume screening and ranking system using **Machine Learning + NLP**.
+
+**Features**
+
+- PDF resume parsing
+- Text preprocessing
+- TF-IDF feature extraction
+- Cosine similarity
+- Candidate ranking
+- Experience-based scoring
+- Automated candidate shortlisting
+
+🔗 **[GitHub Repository](https://github.com/akashpatil8150/Talent-AI---Smart-Resume-Screening-and-Ranking-System)**  
+🔗 **[Live Demo](https://talent-ai---smart-resume-screening-and-ranking-system-culv5cse.streamlit.app/)**
+
+---
+
+### 🌱 Smart Crop Recommendation System
+
+Machine Learning application that recommends suitable crops based on **soil and environmental parameters**.
+
+**Features**
+
+- Data preprocessing
+- Feature analysis
+- Supervised Machine Learning
+- Model evaluation
+- Crop prediction
+- Streamlit interface
+
+🔗 **[GitHub Repository](https://github.com/akashpatil8150/Smart-Crop-Recommendation-System)**  
+🔗 **[Live Demo](https://smart-crop-recommendation-system-kbm9gcraovslzqf4akdhzh.streamlit.app/)**
+
+---
+
+### 🎵 Song Lyrics Emotion Detector
+
+NLP-based application that analyzes song lyrics and predicts emotional categories.
+
+**Tech:** Python • NLP • NLTK • Scikit-learn • Streamlit
+
+---
+
+### 💬 Pare AI Chatbot
+
+AI chatbot application built with Python and deployed as a web application.
+
+**Tech:** Python • NLP • AI • Streamlit
 
 ---
 
 ## 🏆 Certifications
-- Cisco Networking Academy — **Data Analytics Essentials (2024)**
-- Salesforce — **AI Associate & AgentForce Specialist (2024)**
+
+- **Cisco Networking Academy** — Data Analytics Essentials
+- **Salesforce** — AI Associate
+- **Salesforce** — Agentforce Specialist
 
 ---
 
+## 🔥 Currently Exploring
 
-## 🤝 Connect with Me
+```text
+🤖 Agentic AI
+🧠 Generative AI & LLM Applications
+🔎 RAG Systems
+📊 Data Analytics & Business Intelligence
+🐍 Python Backend Development
+⚡ FastAPI
+🔗 Multi-Agent Systems
+☁️ Deployment & Cloud Technologies
+```
+
+---
+
+## 🎯 Career Interests
+
+**Data Analyst • Data Scientist • Machine Learning Engineer • AI Engineer • Agentic AI • Python Developer • Business Analyst**
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/akash-patil-56659027b"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"/></a>
-<a href="https://github.com/akashpatil8150"><img src="https://skillicons.dev/icons?i=github" width="40px"/></a>
-<a href="mailto:akashpatil8150@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px"/></a>
+  <a href="https://linkedin.com/in/akash-patil-56659027b">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
+  </a>
+  <a href="https://github.com/akashpatil8150">
+    <img src="https://skillicons.dev/icons?i=github" width="40px"/>
+  </a>
+  <a href="mailto:akashpatil8150@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
+  </a>
 </p>
 
 ---
 
-⭐ *If you find my work useful, please consider giving a star on my repositories!* 🙂
+⭐ If you find any of my projects useful, consider giving the repository a star!
