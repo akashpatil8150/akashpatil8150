@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
 
-<h3 align="center">Data Analyst | AI/ML Engineer | Agentic AI Practitioner</h3>
+<h3 align="center">AI/ML Engineer | Agentic AI Developer | Data Analytics Professional</h3>
 
 <p align="center">
   <a href="mailto:akashpatil8150@gmail.com">📧 Email</a> •
@@ -13,11 +14,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analytics professional and AI/ML practitioner** passionate about building practical, data-driven applications and intelligent systems.
+I'm an AI-focused developer passionate about building intelligent applications, automation systems, and practical AI solutions.
 
-I work across **Data Analytics, Machine Learning, NLP, Generative AI, Agentic AI, and Python backend development**, with a focus on solving real-world problems through technology.
+My work focuses on **Agentic AI, Generative AI, RAG, Large Language Models (LLMs), NLP, Machine Learning, and Python Backend Development**.
 
-Currently, I'm focused on building **AI-powered applications, multi-agent systems, analytics solutions, and production-oriented Python backends**.
+I have hands-on experience developing AI-powered applications, multi-agent systems, voice-based AI solutions, and backend services using Python and FastAPI.
+
+- 🎓 MSc Data Analytics Graduate – CGPA: 8.45
+- 💼 Former Python AI Intern at WERQ Labs Pvt. Ltd.
+- 🤖 Interested in Agentic AI and Multi-Agent Systems
+- 🧠 Exploring RAG, LLM Applications and AI Engineering
+- 🐍 Building backend applications using Python and FastAPI
+- 🚀 Focused on developing practical, real-world AI solutions.
 
 ---
 
@@ -26,35 +34,26 @@ Currently, I'm focused on building **AI-powered applications, multi-agent system
 ### 💻 Programming
 Python • SQL • R
 
-### 📊 Data Analytics & Visualization
-Pandas • NumPy • Power BI • Matplotlib • Seaborn  
-Data Cleaning • EDA • KPI Analysis • Funnel Analysis • Business Insights
+### 🤖 AI & Machine Learning
+Machine Learning • Deep Learning • NLP • RAG • LLMs  
+Generative AI • Agentic AI • Prompt Engineering
 
-### 🤖 Machine Learning
-Regression • Classification • Clustering  
-Feature Engineering • Model Evaluation • Predictive Modeling  
-Scikit-learn
-
-### 🧠 NLP & AI
-Text Processing • Sentiment Analysis • NER • Text Mining  
-LLM Applications • RAG • Generative AI • Agentic AI
-
-### 🔗 Backend & Agentic AI
-FastAPI • Flask • Streamlit  
-Multi-Agent Architecture • Tool Calling • Orchestration  
-State Management • API Integration • JWT Authentication
+### ⚙️ Backend & APIs
+FastAPI • Flask • REST APIs • Object-Oriented Programming
 
 ### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB
+MySQL • PostgreSQL • MongoDB
 
-### ⚡ Big Data
-Apache Spark • Hadoop • Sqoop
+### 📊 Data Analytics & Visualization
+Pandas • NumPy • Matplotlib • Excel • Power BI (Basic)
 
-### 🌐 Web Analytics
-GA4 • Google Tag Manager • KPI Tracking • Funnel Analysis
+### 🔗 AI Engineering
+Multi-Agent Architecture • Agent Orchestration  
+Tool Integration • API Integration • Prompt Engineering  
+Response Validation • LLM-powered Workflows
 
-### 🛠️ Tools & Libraries
-Git • GitHub • SQLAlchemy • NLTK • spaCy • NumPy • Pandas
+### 🛠️ Tools & Deployment
+Git • GitHub • Docker • Azure Boards • JWT Authentication
 
 ---
 
@@ -64,173 +63,156 @@ Git • GitHub • SQLAlchemy • NLTK • spaCy • NumPy • Pandas
 |---|---|---|
 | **MSc Data Analytics** | Pillai College of Arts, Commerce & Science | 2024 – 2026 |
 | **BSc Information Technology** | Pillai College of Arts, Commerce & Science | 2021 – 2024 |
-| **Class XII (HSC)** | N.N. Paliwala Jr. College | 2019 – 2021 |
-| **Class X (SSC)** | St. Joseph High School | 2009 – 2019 |
 
-**MSc Data Analytics — CGPA: 8.45**
+**MSc Data Analytics – CGPA: 8.45**
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🏢 Python AI Intern — WERQ Labs Pvt. Ltd.
-**Sanpada, Navi Mumbai | June 2026 – September 2026**
+### 🏢 Python AI Intern – WERQ Labs Pvt. Ltd.
 
-- Worked on **Python and AI/ML-based application development**.
-- Contributed to an **Agentic AI Travel Planner**.
-- Developed modular backend components using **FastAPI and Python**.
-- Integrated external APIs for transportation, hotels, activities and weather.
-- Implemented authentication, state management and backend services.
-- Worked on multi-agent workflows involving **planning, verification and replanning**.
+**Sanpada, Navi Mumbai | On-Site | June 2026 – September 2026**
 
-### 📊 Data Analytics Intern — Brainwave Matrix Solutions
-**Mumbai, Maharashtra | December 2024 – January 2025**
-
-- Conducted sales analytics using **Python and Power BI**.
-- Analyzed **29K+ Instagram comments** using NLP techniques.
-- Extracted customer insights through text processing and visualization.
-- Supported data-driven decision making using analytical dashboards.
+- Developed Python-based AI applications and backend solutions.
+- Worked with Python, OOP, NLP, Machine Learning, FastAPI and Flask.
+- Worked on RAG, LLMs, Prompt Engineering and Agentic AI workflows.
+- Integrated AI workflows with databases, APIs and authentication.
+- Contributed to Agentic AI and voice-based AI applications.
+- Worked on voice/audio asset creation and conversational AI components.
+- Used Azure Boards for task tracking and project progress monitoring.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Agentic AI Travel Planner
+### 1. 🤖 Agentic AI Travel Planner
 
-An AI-powered travel planning system built around a **multi-agent architecture**.
+An AI-powered travel planning system built using FastAPI and multi-agent orchestration.
 
-**Key Components**
+**Key Features:**
+- Multi-Agent Architecture
+- LLM-driven Travel Planning
+- Transport Planning
+- Hotel Selection
+- Activity Recommendations
+- Weather Intelligence
+- Online Fact Verification
+- Itinerary Optimization
+- Constraint Handling and Replanning
+- API Integrations
+- PostgreSQL and JWT Authentication
 
-- FastAPI backend
-- Agent orchestration
-- Transport planning
-- Hotel selection
-- Activity recommendations
-- Weather intelligence
-- Online fact verification
-- Trip state management
-- Replanning workflows
-- External API integrations
-- JWT authentication
-- PostgreSQL
+**Tech Stack:** Python • FastAPI • Agentic AI • LLMs • PostgreSQL • REST APIs
 
-**Architecture**
-
-```text
-User Request
-     ↓
-Orchestrator
-     ↓
-┌──────────────┬──────────────┬──────────────┐
-│ Transport    │ Hotel        │ Activities   │
-│ Agent        │ Agent        │ Agent        │
-└──────────────┴──────────────┴──────────────┘
-     ↓
-Weather + Verification
-     ↓
-Trip State
-     ↓
-Final Itinerary
-```
+🔗 GitHub Repository: Add your project repository link
 
 ---
 
-### 🧠 Talent AI — Smart Resume Screening & Ranking
+### 2. 🎙️ AI Voice Agent for Internet Service Provider
 
-AI-powered resume screening and ranking system using **Machine Learning + NLP**.
+A voice-based AI customer support agent that automates customer interactions and support ticket management.
 
-**Features**
+**Key Features:**
+- AI-powered Voice Conversations
+- Customer Verification
+- Automated Ticket Creation
+- Ticket Tracking and Status Updates
+- Speech-to-Text
+- Text-to-Speech
+- Conversational AI Workflow
 
-- PDF resume parsing
-- Text preprocessing
-- TF-IDF feature extraction
-- Cosine similarity
-- Candidate ranking
-- Experience-based scoring
-- Automated candidate shortlisting
+**Tech Stack:** Python • FastAPI • LangGraph • Groq • Whisper • Kokoro TTS • MongoDB
 
-🔗 **[GitHub Repository](https://github.com/akashpatil8150/Talent-AI---Smart-Resume-Screening-and-Ranking-System)**  
-🔗 **[Live Demo](https://talent-ai---smart-resume-screening-and-ranking-system-culv5cse.streamlit.app/)**
-
----
-
-### 🌱 Smart Crop Recommendation System
-
-Machine Learning application that recommends suitable crops based on **soil and environmental parameters**.
-
-**Features**
-
-- Data preprocessing
-- Feature analysis
-- Supervised Machine Learning
-- Model evaluation
-- Crop prediction
-- Streamlit interface
-
-🔗 **[GitHub Repository](https://github.com/akashpatil8150/Smart-Crop-Recommendation-System)**  
-🔗 **[Live Demo](https://smart-crop-recommendation-system-kbm9gcraovslzqf4akdhzh.streamlit.app/)**
+🔗 [GitHub Repository](https://github.com/akashpatil8150/voice-assistant-ai-agent-isp)
 
 ---
 
-### 🎵 Song Lyrics Emotion Detector
+### 3. 🧠 RAG Tourism Chatbot – Kolhapur
 
-NLP-based application that analyzes song lyrics and predicts emotional categories.
+A domain-specific AI chatbot that provides context-grounded information about Kolhapur tourism using Retrieval-Augmented Generation.
 
-**Tech:** Python • NLP • NLTK • Scikit-learn • Streamlit
+**Key Features:**
+- Document Processing
+- Semantic Search
+- Vector Embeddings
+- FAISS Vector Search
+- Context-Aware Responses
+- LLM-based Answer Generation
+- Tourism Knowledge Base
+
+**Tech Stack:** Python • FastAPI • RAG • Sentence Transformers • FAISS • MongoDB • Groq • Llama
+
+🔗 [GitHub Repository](https://github.com/akashpatil8150/kolhapur-tourism-rag-assistant)
 
 ---
 
-### 💬 Pare AI Chatbot
+### 4. 📄 Talent AI – Smart Resume Screening & Ranking System
 
-AI chatbot application built with Python and deployed as a web application.
+An AI-powered resume screening and ranking platform using NLP and BERT-based ranking techniques.
 
-**Tech:** Python • NLP • AI • Streamlit
+**Key Features:**
+- PDF Resume Parsing
+- Candidate Information Extraction
+- Resume Analysis
+- Intelligent Candidate Ranking
+- Automated Candidate Scoring
+- Recruiter-Friendly Evaluation
+- Live Web Application
+
+**Tech Stack:** Python • NLP • BERT • Flask • Machine Learning
+
+🔗 [GitHub Repository](https://github.com/akashpatil8150/Talent-AI---Smart-Resume-Screening-and-Ranking-System)
+
+🌐 [Live Demo](https://talent-ai---smart-resume-screening-and-ranking-system-culv5cse.streamlit.app/)
+
+📑 Research paper submitted for publication (under review).
 
 ---
 
 ## 🏆 Certifications
 
-- **Cisco Networking Academy** — Data Analytics Essentials
-- **Salesforce** — AI Associate
-- **Salesforce** — Agentforce Specialist
+- Cisco Networking Academy – Data Analytics Essentials
+- Salesforce – Certified AI Associate
+- Salesforce – Agentforce Specialist
 
 ---
 
 ## 🔥 Currently Exploring
 
-```text
-🤖 Agentic AI
-🧠 Generative AI & LLM Applications
-🔎 RAG Systems
-📊 Data Analytics & Business Intelligence
-🐍 Python Backend Development
-⚡ FastAPI
-🔗 Multi-Agent Systems
-☁️ Deployment & Cloud Technologies
-```
+- 🤖 Agentic AI & Multi-Agent Systems
+- 🧠 Generative AI & LLM Applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔗 LangGraph & Agent Orchestration
+- 🐍 Advanced Python Backend Development
+- ⚡ FastAPI & Backend Architecture
+- ☁️ AI Application Deployment
+- 🧩 AI Workflow Automation
 
 ---
 
 ## 🎯 Career Interests
 
-**Data Analyst • Data Scientist • Machine Learning Engineer • AI Engineer • Agentic AI • Python Developer • Business Analyst**
+AI Engineer • Machine Learning Engineer • AI/ML Developer • Junior Data Scientist • Data Analyst • Python Developer • Agentic AI Engineer
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/akash-patil-56659027b">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
+  &nbsp;
   <a href="https://github.com/akashpatil8150">
-    <img src="https://skillicons.dev/icons?i=github" width="40px"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
+  &nbsp;
   <a href="mailto:akashpatil8150@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
 
----
-
-⭐ If you find any of my projects useful, consider giving the repository a star!
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
