@@ -64,8 +64,6 @@ Git • GitHub • Docker • Azure Boards • JWT Authentication
 | **MSc Data Analytics** | Pillai College of Arts, Commerce & Science | 2024 – 2026 |
 | **BSc Information Technology** | Pillai College of Arts, Commerce & Science | 2021 – 2024 |
 
-**MSc Data Analytics – CGPA: 8.45**
-
 ---
 
 ## 💼 Professional Experience
