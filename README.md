@@ -105,7 +105,7 @@ An AI-powered travel planning system built using FastAPI and multi-agent orchest
 
 **Tech Stack:** Python • FastAPI • Agentic AI • LLMs • PostgreSQL • REST APIs
 
-🔗 GitHub Repository: Add your project repository link
+🔗 [GitHub Repository](https://github.com/akashpatil8150/agentic-ai-travel-planner)
 
 ---
 
